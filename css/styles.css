@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+.navbar-nav > li{
+    padding: 5px;
+    margin: 10px;
+   
+  }
+
+  .btnn{
+    padding-left:30px;
+    padding-right:30px;
+      width: 140px;
+      justify-content: space-evenly;
+  }
+  footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+
+  }
+  footer a{
+    color: white;
+    text-decoration: none;
+  }
+ .icon{
+     margin: 10px;
+        width: 30px;
+        font-size: 40px;
+    }
+  
