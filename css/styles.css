@@ -1,5 +1,5 @@
 body{
-    /* background-color: black; */
+    background-color: black;
 }
 
 .navbar-nav > li{
@@ -14,3 +14,21 @@ body{
       width: 140px;
       justify-content: space-evenly;
   }
+  footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+
+  }
+  footer a{
+    color: white;
+    text-decoration: none;
+  }
+ .icon{
+     margin: 10px;
+        width: 30px;
+        font-size: 40px;
+    }
+  
