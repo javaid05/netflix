@@ -1,0 +1,12 @@
+body {
+  background-color: #141414;
+}
+.Move-title {
+  color: whitesmoke;
+}
+.trending-width {
+  width: 70%;
+}
+.trending-width:hover {
+  cursor: pointer;
+}
