@@ -1,0 +1,16 @@
+body{
+    /* background-color: black; */
+}
+
+.navbar-nav > li{
+    padding: 5px;
+    margin: 10px;
+   
+  }
+
+  .btnn{
+    padding-left:30px;
+    padding-right:30px;
+      width: 140px;
+      justify-content: space-evenly;
+  }
